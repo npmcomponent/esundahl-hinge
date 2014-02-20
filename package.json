@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-hinge",
+  "description": "hinge animation",
+  "version": "0.0.1",
+  "keywords": [
+    "css3",
+    "animation",
+    "hinge"
+  ],
+  "styles": [
+    "hinge.css"
+  ],
+  "dependencies": {
+    "esundahl-animated": "git://github.com/npmcomponent/esundahl-animated.git"
+  },
+  "license": "MIT"
+}
